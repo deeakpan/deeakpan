@@ -1,16 +1,50 @@
-## Hi there 👋
+# Welcome to Dee's GitHub 👋   
+I'm building onchain products with precision — smart contracts, NFTs, and AI-powered DeFi systems.  
+Focused on scalable tech, clean UX, and community-first infrastructure.
 
-<!--
-**deeakpan/deeakpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Young Nigerian developer pushing the limits of Web3  
+🏗️ Startup builder across NFTs, DeFi, and smart contract tooling  
+🧱 Focused on shipping secure, production-ready blockchain solutions  
+📣 Advocate for clear dev communication and open access in crypto
+
+
+## What I'm Building 🛠
+
+- LilyPad NFT Marketplace
+- DeFAI DAO
+- HODL-Pepe Unchained** — MemeFi ecosystem with Telegram-based voting & rewards
+
+---
+
+## Tech I Use 💻
+
+`Solidity` · `Hardhat` · `Ethers.js` · `OpenZeppelin`  
+`Next.js` · `React` · `Tailwind CSS` · `TypeScript`  
+`LangChain` · `OpenAI API` · `Python`  
+`IPFS` · `TheGraph` · `AWS`
+
+---
+
+## Beyond Code 🎯
+
+🎤 Hosting dev sessions & community calls  
+⚙️ Designing bots & tooling for better onboarding  
+📚 Always learning — systems, design, security  
+🧠 Deep on mindset, execution, and staying sharp
+- ⚡ Fun fact: ... i till build games when i get bored
+
+
+
+## Connect With Me 🌐  
+- [🌐 Website](https://succulent-gargoyle-edb.notion.site/Building-Onchain-with-Dee-1f80546402d480d9a3d3fd069dd7c70b)  
+- [🐦 X / Twitter](https://x.com/deeakpan)  
+- [💼 LinkedIn](https://linkedin.com/in/deeakpan)  
+- [✈️ Telegram](https://t.me/d2eakpan)
+
+
+> Building fast. Thinking long-term. Staying onchain.
+
