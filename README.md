@@ -40,10 +40,10 @@ Focused on scalable tech, clean UX, and community-first infrastructure.
 
 
 ## Connect With Me 🌐  
-- [🌐 Website](https://succulent-gargoyle-edb.notion.site/Building-Onchain-with-Dee-1f80546402d480d9a3d3fd069dd7c70b)  
-- [🐦 X / Twitter](https://x.com/deeakpan)  
-- [💼 LinkedIn](https://linkedin.com/in/deeakpan)  
-- [✈️ Telegram](https://t.me/d2eakpan)
+- [Website](https://succulent-gargoyle-edb.notion.site/Building-Onchain-with-Dee-1f80546402d480d9a3d3fd069dd7c70b)  
+- [X ](https://x.com/deeakpan)  
+- [LinkedIn](https://linkedin.com/in/deeakpan)  
+- [Telegram](https://t.me/d2eakpan)
 
 
 > Building fast. Thinking long-term. Staying onchain.
