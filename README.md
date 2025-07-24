@@ -14,9 +14,10 @@ Focused on scalable tech, clean UX, and community-first infrastructure.
 
 ## What I'm Building 🛠
 
-- LilyPad NFT Marketplace
+- LiliPad NFT Marketplace
 - DeFAI DAO
 - HODL-Pepe Unchained** — MemeFi ecosystem with Telegram-based voting & rewards
+- Pepu Bank
 
 ---
 
