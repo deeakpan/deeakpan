@@ -1,4 +1,4 @@
-# Welcome to Dee's GitHub 👋   
+# Hello World, I'm Deee 👋   
 I'm building onchain products with precision — smart contracts, NFTs, and AI-powered DeFi systems.  
 Focused on scalable tech, clean UX, and community-first infrastructure.
 
