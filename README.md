@@ -1,4 +1,4 @@
-# Hello World, I'm Deee 👋   
+# Hello World, I'm DE 👋   
 I'm building onchain products with precision — smart contracts, NFTs, and AI-powered DeFi systems.  
 Focused on scalable tech, clean UX, and community-first infrastructure.
 
