@@ -57,13 +57,13 @@ I'm Currently pursuing a degree in cybersecurity.
 
 ## Bug Bounty
 
-Active. I audit smart contracts and write PoC exploits. Past findings include a critical vulnerability in DODO’s public order fill logic and multiple confirmed mediums across PepuLock, PenkMarketL2, and SuperBridgeL2.
+I actively audit smart contracts and write PoC exploits. Some of my Past findings include a critical vulnerability in DODO’s public order fill logic and multiple confirmed mediums across PepuLock, PenkMarketL2, and SuperBridgeL2.
 
 -----
 
 ## Beyond the screen
 
-Chess. Research. Gym.
+I might call myself a Chess guru.i do alot of research on anything you can gind on the internet,you may find me occasionaly at the Gym lifting metals, I'm a devout Christian and love cleaning the Church from time-to-time.
 
 -----
 
